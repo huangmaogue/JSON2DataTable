@@ -1,0 +1,10 @@
+Z:\JSON2TreeView\JSON2TreeView\bin\Release\JSON2TreeView.exe
+Z:\JSON2TreeView\JSON2TreeView\bin\Release\JSON2TreeView.pdb
+Z:\JSON2TreeView\JSON2TreeView\bin\Release\Newtonsoft.Json.dll
+Z:\JSON2TreeView\JSON2TreeView\bin\Release\Newtonsoft.Json.pdb
+Z:\JSON2TreeView\JSON2TreeView\bin\Release\Newtonsoft.Json.xml
+Z:\JSON2TreeView\JSON2TreeView\obj\x86\Release\JSON2TreeView.Form1.resources
+Z:\JSON2TreeView\JSON2TreeView\obj\x86\Release\JSON2TreeView.Properties.Resources.resources
+Z:\JSON2TreeView\JSON2TreeView\obj\x86\Release\JSON2TreeView.csproj.GenerateResource.Cache
+Z:\JSON2TreeView\JSON2TreeView\obj\x86\Release\JSON2TreeView.exe
+Z:\JSON2TreeView\JSON2TreeView\obj\x86\Release\JSON2TreeView.pdb
